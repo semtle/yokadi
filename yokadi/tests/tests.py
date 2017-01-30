@@ -52,6 +52,7 @@ from conflictingobjecttestcase import ConflictingObjectTestCase
 from dbreplicatortestcase import DbReplicatorTestCase
 from conflictutilstestcase import ConflictUtilsTestCase
 from syncmanagertestcase import SyncManagerTestCase
+from dbs13ntestcase import Dbs13nTestCase
 
 
 def main():
